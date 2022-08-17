@@ -24,8 +24,6 @@ itertools.permutations('abcde') # 生成abcde的所有组合
 itertools.combinations('abcde', 3) # 在abcde中选3个的所有组合
 itertools.product('abcde', '123') # 生成abcde与123的笛卡尔积
 itertools.cycle(('a', 'b', 'c')) # 生成abcde的无限循环队列
-
-
 ```
 
 ## 注意事项
