@@ -338,7 +338,7 @@ facebook_comments:
 twikoo:
   envId: https://www.wyhcomment.ml
   region: Sichuan
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
