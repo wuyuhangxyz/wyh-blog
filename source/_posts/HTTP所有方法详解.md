@@ -1,6 +1,6 @@
 ---
-title: HTTP方法详解
-date: 2022-09-03 22:18:44
+title: HTTP所有方法详解
+date: 2022-09-03 23:40:00
 tags: [网络技术,HTTP]
 categories: [网络协议,HTTP]
 ---
