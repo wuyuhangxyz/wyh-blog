@@ -5,7 +5,7 @@
 # Site
 title: 吴宇航的博客
 subtitle:
-description:
+description: 个人博客
 keywords:
 author: 吴宇航
 language: zh-CN
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
