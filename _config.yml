@@ -16,7 +16,7 @@ timezone:
 url: https://www.wuyuhang.ml
 # url: http://localhost:4000
 root: /
-permalink: blog/:abbrlink
+permalink: blog/:abbrlink.html
 abbrlink:
   alg: crc16
   rep: dec
