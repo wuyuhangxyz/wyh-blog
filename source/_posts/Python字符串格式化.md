@@ -1,8 +1,14 @@
 ---
 title: Python字符串格式化
+tags:
+  - 编程语言
+  - Python
+  - 语法
+categories:
+  - Python
+  - 内置数据类型
+abbrlink: 30734
 date: 2022-08-18 23:19:10
-tags: [编程语言,Python,语法]
-categories: [Python,内置数据类型]
 ---
 
 # 前言

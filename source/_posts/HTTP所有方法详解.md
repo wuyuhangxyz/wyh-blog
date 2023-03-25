@@ -1,8 +1,13 @@
 ---
 title: HTTP所有方法详解
+tags:
+  - 网络协议
+  - HTTP
+categories:
+  - 网络技术
+  - HTTP
+abbrlink: 41384
 date: 2022-09-03 23:40:00
-tags: [网络协议,HTTP]
-categories: [网络技术,HTTP]
 ---
 
 # 前言

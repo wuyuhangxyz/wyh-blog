@@ -1,8 +1,11 @@
 ---
 title: SOAP的概念与主要特点
+tags:
+  - 网络架构
+categories:
+  - 网络技术，网络架构
+abbrlink: 47245
 date: 2022-09-04 15:10:59
-tags: [网络架构]
-categories: [网络技术，网络架构]
 ---
 
 # 前言

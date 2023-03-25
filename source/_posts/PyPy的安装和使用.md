@@ -1,8 +1,15 @@
 ---
 title: PyPy的安装和使用(一)
+tags:
+  - 编程语言
+  - Python
+  - 解释器
+categories:
+  - Python
+  - 其它
+  - PyPy
+abbrlink: 15473
 date: 2022-08-19 23:50:34
-tags: [编程语言,Python,解释器]
-categories: [Python,其它,PyPy]
 ---
 
 # 前言

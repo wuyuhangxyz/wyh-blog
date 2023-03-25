@@ -1,8 +1,15 @@
 ---
 title: FastAPI的使用(一)
+tags:
+  - 编程语言
+  - Python
+  - Web开发
+categories:
+  - Python
+  - Web框架
+  - FastAPI
+abbrlink: 38548
 date: 2022-08-19 22:56:47
-tags: [编程语言,Python,Web开发]
-categories: [Python,Web框架,FastAPI]
 ---
 
 # 前言

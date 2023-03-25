@@ -1,8 +1,14 @@
 ---
 title: 一些好用的Python标准库
+tags:
+  - 编程语言
+  - Python
+  - 类库
+categories:
+  - Python
+  - 标准库
+abbrlink: 33721
 date: 2022-08-16 23:20:36
-tags: [编程语言,Python,类库]
-categories: [Python,标准库]
 ---
 
 # 前言
